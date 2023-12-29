@@ -1,5 +1,5 @@
 for test
-f
+ff
 sudo apt-get remove dockeocker-engine docker.io containerd runc
 
 sudo apt-get updat
